@@ -101,7 +101,7 @@ body {
 }
 
 .foods-menu {
-	background-color: #cecece;
+	background-color: #ececec;
 }
 
 .footer a {
@@ -118,9 +118,31 @@ body {
 	color: #ff6b81;
 }
 
-/* ! Admin css */
+.insta {
+	color: #ff6b81;
+}
 
-#btn-add {
-	color: #fff;
-	background-color: dodgerblue;
+.insta:hover {
+	color: crimson !important;
+}
+
+/* ! Admin css */
+.header-admin {
+	inset: 0;
+	z-index: 1;
+	height: 20px;
+}
+
+.admin-footer {
+	background-color: crimson;
+	color: azure;
+	line-height: 36px;
+}
+
+.admin-footer a {
+	color: darkblue;
+}
+
+.manage-imgs {
+	max-width: 70px;
 }
