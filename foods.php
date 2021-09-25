@@ -74,7 +74,7 @@
                                 Made with Italian Sauce, Chicken, and organice vegetables.
                             </p>
 
-                            <a href="order.html" class="btn btn-search">Order Now</a>
+                            <a href="order.php" class="btn btn-search">Order Now</a>
                         </div>
                     </div>
 
@@ -90,7 +90,7 @@
                                 Made with Italian Sauce, Chicken, and organice vegetables.
                             </p>
 
-                            <a href="order.html" class="btn btn-search">Order Now</a>
+                            <a href="order.php" class="btn btn-search">Order Now</a>
                         </div>
                     </div>
                     <div class="col-lg-5 col-11 d-flex flex-row card br-15 m-4">
@@ -105,7 +105,7 @@
                                 Made with Italian Sauce, Chicken, and organice vegetables.
                             </p>
 
-                            <a href="order.html" class="btn btn-search">Order Now</a>
+                            <a href="order.php" class="btn btn-search">Order Now</a>
                         </div>
                     </div>
                     <div class="col-lg-5 col-11 d-flex flex-row card br-15 m-4">
@@ -120,7 +120,7 @@
                                 Made with Italian Sauce, Chicken, and organice vegetables.
                             </p>
 
-                            <a href="order.html" class="btn btn-search">Order Now</a>
+                            <a href="order.php" class="btn btn-search">Order Now</a>
                         </div>
                     </div>
                 </div>
