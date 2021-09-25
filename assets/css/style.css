@@ -1,5 +1,7 @@
 * {
 	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 html,
@@ -124,6 +126,29 @@ body {
 
 .insta:hover {
 	color: crimson !important;
+}
+
+/* ! Order css */
+
+/* food-order */
+.food-order {
+	background-image: url('../images/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+fieldset {
+	border: 1px solid white;
+}
+legend {
+	width: 28%;
+	float: none;
+}
+
+.food-order .card {
+	border: none;
+	background-color: inherit;
 }
 
 /* ! Admin css */
